@@ -15,8 +15,8 @@ const socials = [
   {
     id: 'whatsapp',
     name: 'WhatsApp',
-    desc: 'Acesse nossa página principal do WhatsApp e fique conectado com todas as novidades, avisos e interações da comunidade!',
-    href: 'https://chat.whatsapp.com/JDlE2mxBflK6g5ugYVsvg7',
+    desc: 'Acesse nosso grupo do diário principal do WhatsApp, Diario todos  os dias, pique apostado, garanta sua vaga la no grupo!',
+    href: 'https://chat.whatsapp.com/FdeyZAf7JYQKWwABmdOzPV',
     cta: 'Acessar Canal',
     color: '#25D366',
     glow: 'rgba(37,211,102,0.08)',
@@ -25,7 +25,7 @@ const socials = [
   {
     id: 'instagram',
     name: 'Instagram',
-    desc: 'Siga, Comente e Compartilhe nosso Instagram e acompanhe novidades, conteúdos exclusivos e momentos incríveis da comunidade!',
+    desc: 'Siga, Comente e Compartilhe nosso Instagram e acompanhe novidades, conteúdos exclusivos da comunidade!',
     href: 'https://www.instagram.com/org.pitbull?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==',
     cta: 'Seguir no Instagram',
     color: '#E8921A',

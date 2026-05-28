@@ -3,10 +3,10 @@ import { motion, useInView } from 'framer-motion'
 
 const metrics = [
   { num: '25', suffix: 'K+', label: 'Membros na Comunidade' },
-  { num: '89', suffix: '%', label: 'Taxa de Acerto Média' },
-  { num: '3', suffix: 'Anos', label: 'Atuando no Mercado' },
-  { num: '5', suffix: 'K+', label: 'Sinais Publicados' },
-  { num: '4.9', suffix: '★', label: 'Avaliação Média' },
+  { num: '1 ', suffix: 'Coin', label: 'a cada partida ganha' },
+  { num: '2 ', suffix: 'Reais', label: 'A Cada pessoa que você convidar' },
+  { num: 'FILAS ', suffix: '', label: 'Mob - Emu - Mista - Tática' },
+  { num: '30$+ ', suffix: 'eventos', label: 'Venha jogar agora!' },
 ]
 
 const tickerItems = [
@@ -41,7 +41,7 @@ export default function Metrics() {
           </h2>
           <div style={{ width: 60, height: 2, background: '#E8921A', margin: '1rem auto' }} />
           <p style={{ fontSize: '1rem', color: 'rgba(240,237,232,0.55)', maxWidth: 500, lineHeight: 1.7, fontWeight: 300 }}>
-            Mais do que números, somos uma força imparável, uma comunidade que cresce e se fortalece a cada dia. Aqui, cada jogador importa, cada conquista é compartilhada e cada vitória é celebrada.
+           Mais do que números, somos uma força imparável, uma comunidade que cresce e se fortalece a cada dia. Aqui, cada jogador importa, cada conquista é compartilhada e cada vitória é celebrada.
           </p>
         </motion.div>
 

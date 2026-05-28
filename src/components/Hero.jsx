@@ -293,7 +293,7 @@ export default function Hero() {
               {[
                 { num: "25K+", label: "Membros" },
                 { num: "24hr", label: "Suporte" },
-                { num: "0%", label: "de taxa" },
+                { num: "3WIN", label: "30 no pix" },
               ].map((s) => (
                 <div
                   key={s.label}
